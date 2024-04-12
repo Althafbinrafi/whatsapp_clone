@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp/Constants/colors.dart';
 import 'package:whatsapp/Widgets/chat_column.dart';
 
 class Home extends StatefulWidget {
